@@ -33,19 +33,20 @@ A global average pooling and dense layer are used as the classifier to output so
 
 The simplified illustration of the model is shown in the figure below.
 
-![alt text](https://github.com/paan234/AI05-repo-3/blob/master/Image/Model.png)
+![alt text](https://github.com/paan234/AI05-repo-3/blob/main/Image/Model.png )
+
 The model is trained with a batch size of 16 and 10 epochs. After training, the model reaches 99% training accuracy and 95% validation accuracy. 
 The training results are shown in the figures below.
 
-![alt text](https://github.com/paan234/AI05-repo-3/blob/master/Image/loss_graph.png)
+![alt text](https://github.com/paan234/AI05-repo-3/blob/main/Image/loss_graph.png)
 
-![alt text](https://github.com/paan234/AI05-repo-3/blob/master/Image/mae_graph.png)
+![alt text](https://github.com/paan234/AI05-repo-3/blob/main/Image/accuracy_graph.png)
 
 ## 4. Results
 The model is evaluated with the test data. The loss and accuracy are shown in figure below.
 
-![alt text](https://github.com/paan234/AI05-repo-2/blob/master/Image/Test_result.jpg)
+![alt text](https://github.com/paan234/AI05-repo-3/blob/main/Image/Test_result.png)
 
 Some predictions are also been made with the model, and compared with the actual results.
 
-![alt text](https://github.com/paan234/AI05-repo-2/blob/master/Image/Result.png)
+![alt text](https://github.com/paan234/AI05-repo-3/blob/main/Image/Result.png)
