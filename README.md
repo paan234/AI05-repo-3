@@ -2,7 +2,7 @@
 
 ## 1. Summary of the project
 The aim of this porject is to create a convolutional neural network model that can identify cracks on concrete with a high accuracy.
-The problem is modelled as a binary classification problem (no cracks/negative and cracks/positive). 
+The problem is modelled as a binary classification problem (negative and positive crack image). 
 The model is trained with a dataset of 40,000 images (20,000 images of concrete in good condition and 20,000 images og concrete with cracks).
 
 The model is trained with dataset from [Concrete](https://data.mendeley.com/datasets/5y9wdsg2zt/2).
